@@ -14,3 +14,5 @@ HTML5
 CSS3
 JavaScript
 
+![preview](./simonsays.jpg)
+
